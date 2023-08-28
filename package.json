@@ -1,7 +1,7 @@
 {
   "name": "bank_api",
   "version": "1.0.0",
-  "description": "Your assignment is to build an internal API for a fake financial institution using Java and Spring.",
+  "description": "Your assignment is to build an internal API for a fake financial institution using JavaScipt and Node.",
   "main": "index.js",
   "scripts": {
     "start": "npm start index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://whitespace-zzavhc@git.codesubmit.io/whitespace/banking-api-vidifr"
+    "url": "https://github.com/jtparham/react-bank-api"
   },
   "author": "",
   "license": "ISC",
